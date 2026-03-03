@@ -1,0 +1,11 @@
+false
+360
+U U B B N N R U U
+U B B N N R R U U
+U N N N N R N N U
+N N N N U N N N U
+R N N U N N N N B
+N N N N U N N N U
+U N N N N N N N U
+U N N N R R R U U
+U U B N N N R U U
